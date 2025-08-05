@@ -43,14 +43,14 @@ okta-clone-auth-system/
 | Deployment      | GitHub Pages / Firebase Hosting |
 | Version Control | Git + GitHub                    |
 
-## 🧠 Learning Goals
+##  Learning Goals
 
 1. **Understand authentication flows** – including sign-up, sign-in, role-based access, and token validation.
 2. **Architect solutions** – using diagrams and clear modular code structure.
 3. **Communicate like a solution engineer** – via YouTube, LinkedIn, and GitHub.
 4. **Deploy secure web apps** – using Firebase hosting and real-time databases.
 
-## 🗓️ Timeline (Weekend-Focused Plan)
+## Timeline (Weekend-Focused Plan)
 
 | Phase                  | Duration | Description                        |
 | ---------------------- | -------- | ---------------------------------- |
@@ -61,8 +61,8 @@ okta-clone-auth-system/
 | 📤 Deployment & CI     | Week 5   | Firebase hosting, GitHub actions   |
 | 📘 Final Docs + Videos | Week 6   | Reflections, final touches, video  |
 
-> ⏱️ Weekdays (Mon-Tues): 2 hrs
-> ⛱️ Weekends (Sat-Sun): 6–8 hrs
+>  Weekdays (Mon-Tues): 2 hrs
+>  Weekends (Sat-Sun): 6–8 hrs
 
 ## 🎥 Content & Documentation Strategy
 
